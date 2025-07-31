@@ -7,3 +7,4 @@ nltk
 xgboost
 ipykernel
 dvc
+pyyaml
