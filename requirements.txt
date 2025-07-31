@@ -8,3 +8,4 @@ xgboost
 ipykernel
 dvc
 pyyaml
+dvclive
