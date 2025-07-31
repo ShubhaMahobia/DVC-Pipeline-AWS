@@ -1,0 +1,16 @@
+[project]
+name = "dvc-pipeline-aws"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "numpy>=2.2.6",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "wordcloud>=1.9.4",
+    "xgboost>=3.0.3",
+]
