@@ -13,8 +13,7 @@ A comprehensive Machine Learning pipeline for SMS Spam Detection using **DVC (Da
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Experiment Tracking](#experiment-tracking)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
